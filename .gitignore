@@ -14,6 +14,7 @@ dumpstorm.bat
 popstorm.bat
 *.pyc
 *.idea/
+.idea/
 *.iml
 classes/
 .gradle/
